@@ -34,3 +34,5 @@ git add
 ```sh
 git commit -m "текст"
 ```
+
+# Как сделать pull request
